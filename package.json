@@ -1,0 +1,18 @@
+{
+  "name": "helloupload",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "googleapis": "^27.0.0",
+    "multer": "^1.4.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
